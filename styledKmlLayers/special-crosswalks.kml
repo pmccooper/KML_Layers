@@ -6,7 +6,7 @@
   <Snippet></Snippet>
   <Style id="IconStyle00">
     <IconStyle>
-      <scale>5.0</scale>
+      <scale>2.5</scale>
       <Icon><href>https://raw.githubusercontent.com/pmccooper/KML_Layers/master/icons/Rectangular%20rapid%20flashing%20beacon.png</href></Icon>
     </IconStyle>
     <LabelStyle>

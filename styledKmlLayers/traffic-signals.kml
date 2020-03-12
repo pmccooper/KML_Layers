@@ -6,7 +6,7 @@
   <Snippet></Snippet>
   <Style id="IconStyle00">
     <IconStyle>
-      <scale>5.0</scale>
+      <scale>2.5</scale>
       <Icon><href>https://raw.githubusercontent.com/pmccooper/KML_Layers/master/icons/Full%20signal.png</href></Icon>
     </IconStyle>
     <LabelStyle>
