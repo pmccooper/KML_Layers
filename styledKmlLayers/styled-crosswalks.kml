@@ -9,15 +9,6 @@
       <scale>10.0</scale>
       <Icon><href>https://raw.githubusercontent.com/pmccooper/KML_Layers/master/icons/Marked%20crossing.png</href></Icon>
     </IconStyle>
-    <LabelStyle>
-      <color>00000000</color>
-      <scale>0.000000</scale>
-    </LabelStyle>
-    <PolyStyle>
-      <scale>2.0</scale>
-      <color>ff000000</color>
-      <outline>0</outline>
-    </PolyStyle>
   </Style>
   <Folder id="FeatureLayer0">
     <name>Crosswalks_UpdatedJan2019</name>
