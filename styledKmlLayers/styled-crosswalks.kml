@@ -6,7 +6,7 @@
   <Snippet></Snippet>
   <Style id="IconStyle00">
     <IconStyle>
-      <scale>0.250000</scale>
+      <scale>2.0</scale>
       <Icon><href>https://raw.githubusercontent.com/pmccooper/KML_Layers/master/icons/Marked%20crossing.png</href></Icon>
     </IconStyle>
     <LabelStyle>
