@@ -6,9 +6,17 @@
   <Snippet></Snippet>
   <Style id="IconStyle00">
     <IconStyle>
-      <scale>10.0</scale>
+      <scale>2.000000</scale>
       <Icon><href>https://raw.githubusercontent.com/pmccooper/KML_Layers/master/icons/Marked%20crossing.png</href></Icon>
     </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
   </Style>
   <Folder id="FeatureLayer0">
     <name>Crosswalks_UpdatedJan2019</name>
